@@ -252,14 +252,7 @@ results/statistics/
 - LPIPS and DISTS require metric-specific channel and normalization handling, implemented in the evaluation notebook.
 - The repository does not include the full MosMed-L dataset.
 
-## Citation
 
-The bibliographic entry will be updated after publication. Until then:
-
-```bibtex
-@article{abed_cgmf_ct_sr,
-  title   = {A Frequency-Aware Dual-Branch Framework with Confidence-Guided Max Fusion for CT Image Super-Resolution Balancing Reconstruction Fidelity and Perceptual Quality},
-  author  = {Abed, Sudad Najim and Al-Jawher, Waleed A. Mahmoud},
   year    = {2026},
   note    = {Manuscript}
 }
