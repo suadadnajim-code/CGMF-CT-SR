@@ -1,0 +1,8 @@
+Model,Number_of_Images,Missing_vs_Proposed,Extra_vs_Proposed,Exact_Name_Match
+Proposed,1110,0,0,True
+ELAN,1110,0,0,True
+EDSR,1110,0,0,True
+SwinIR,1110,0,0,True
+DAT,1110,0,0,True
+GRL,1110,0,0,True
+ESRGAN,1110,0,0,True
